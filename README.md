@@ -19,7 +19,7 @@ This API test covers several scenarios, such as:
 2. Open the project using a text editor (VS Code)
 3. Select a project
 4. Run using terminal/cmd
-_If you encounter any difficulties, please give me feedback at msurya45@gmail.com_
+_If you encounter any difficulties, please give me feedback at msuryana45@gmail.com_
 
 ## Example of Test Results in Smoke-Testing.js
 ![image](https://github.com/suryana-code/Testing-With-K6/assets/53417863/06507764-dc7d-4f0a-b892-7aefa0d94c0f)
